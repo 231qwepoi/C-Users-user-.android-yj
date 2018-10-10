@@ -1,19 +1,13 @@
-### 1.2.2. 단점
-	1. 표준이 없다.
-	2. 표준이 없기 때문에 도구에 따라서 변환방식이나 생성물이 다르다.
-	3. 모든 HTML 마크업을 대신하지 못한다.
-
-
 ## 환경 설정
 
-1. git config --global --list 
-현재 설정정보 조회할 수 있습니다. --global옵션은 전역설정에 대한 옵션이며 현재 프로젝트에만 적용할때는 주지 않습니다.
-2. git config --global user.name "사용자명" 
-사용자명을 등록합니다 (필수)
-3. git config --global user.email "이메일주소" 
-이메일 주소를 등록합니다. (필수)
-4. git config --global color.ui “auto”
-터미널에 표시되는 메시지에 칼라를 표시해줌
+     1. git config --global --list 
+     현재 설정정보 조회할 수 있습니다. --global옵션은 전역설정에 대한 옵션이며 현재 프로젝트에만 적용할때는 주지 않습니다.
+     2. git config --global user.name "사용자명" 
+     사용자명을 등록합니다 (필수)
+     3. git config --global user.email "이메일주소" 
+     이메일 주소를 등록합니다. (필수)
+     4. git config --global color.ui “auto”
+     터미널에 표시되는 메시지에 칼라를 표시해줌
 
 ## 기본적인 명령어
 
