@@ -172,7 +172,7 @@
      git archive --format=zip --prefix=폴더명/ 브랜치혹은태그 > 파일명.zip
      해당 브랜치나 태그를 압축파일로 만듭니다. --prefix를 주면 압축하일이 해당폴더 안에 생성되도록 할 수 있습니다.
 
-    2. git mergetool
+     2. git mergetool
      설정에 merge.tool의 값에 있는 머지툴을 찾아서 실행합니다.
 
      3. git gc
